@@ -3,7 +3,7 @@ import { Test1 } from './components/test1';
 import { Test2 } from './components/test2';
 
 function App() {
-  console.log('test')
+  console.log('test++++')
     return (
         <div className="App">
             <div className='wrapper'>
